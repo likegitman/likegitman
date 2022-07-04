@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WoonRin%20Lee&fontSize=90)
+<h1 align="center">INTRODUCE</h1>
+<h2 align="center">아직 지식을 쌓고 있는 프론트엔드 개발자 꿈나무:seedling: 입니다!</h2>
+
+
+
 
 <div align="center"><h1>TECHNIQUE</h1>
     
@@ -9,7 +14,8 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  
+
+___
 VISIT CNT
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flikegitman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
