@@ -2,11 +2,13 @@
 
 <h1 align="center">:sparkles:INTRODUCE:sparkles:</h1>
 <p align="center"><b>아직 지식을 쌓고 있는 프론트엔드 개발자 꿈나무:seedling: 입니다!</b></p>
+<p align="center"><b>I am Dream Tree🌱, a front-end developer who is still accumulating knowledge!</b></p>
+
 
 
 ___
 
-<div align="center"><h1>TECHNIQUE</h1>
+<div align="center"><h1>My Stack</h1>
     
   <div align="center">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
