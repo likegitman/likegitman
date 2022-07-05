@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WoonRin%20Lee&fontSize=90)
-<h1 align="center">INTRODUCE</h1>
+
+<h1 align="center">:sparkles:INTRODUCE:sparkles:</h1>
 <p align="center"><b>아직 지식을 쌓고 있는 프론트엔드 개발자 꿈나무:seedling: 입니다!</b></p>
 
 
