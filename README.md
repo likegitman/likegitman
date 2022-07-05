@@ -4,7 +4,7 @@
 <p align="center"><b>아직 지식을 쌓고 있는 프론트엔드 개발자 꿈나무:seedling: 입니다!</b></p>
 
 
-
+___
 
 <div align="center"><h1>TECHNIQUE</h1>
     
