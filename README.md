@@ -18,8 +18,14 @@ ___
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+      
+___
+<a href="https://www.instagram.com/lwl._.06/">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 ___
+
 <h1 align="center">Motto</h1>
       <p align="center"><b>내가 아는만큼 보고 듣고 느낄 수 있다:brain:</b></p>
       <p align="center"><b>As far as I know, I can see, hear and feel:book:</b></p> 
