@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F0F8FF&height=300&section=header&text=WoonRin%20Lee&fontSize=90)
 
 <h1 align="center">:sparkles:INTRODUCE:sparkles:</h1>
-<p align="center"><b>아직 지식을 쌓고 있는 프론트엔드 개발자 꿈나무:seedling: 입니다!</b></p>
+<p align="center"><b>많은 지식을 쌓고 훌륭한 프론트엔드 개발자가 되고싶은 꿈나무:seedling: 입니다!</b></p>
 <p align="center"><b>I am Dream Tree🌱, a front-end developer who is still accumulating knowledge!</b></p>
 
 
