@@ -4,8 +4,12 @@
 <p align="center"><b>많은 지식을 쌓고 훌륭한 프론트엔드 개발자가 되고싶은 꿈나무:seedling: 입니다!</b></p>
 <p align="center"><b>I am Dream Tree🌱, a front-end developer who is still accumulating knowledge!</b></p>
 
+___
 
-
+<h1 align="center">Motto</h1>
+      <p align="center"><b>내가 아는만큼 보고 듣고 느낄 수 있다:brain:</b></p>
+      <p align="center"><b>As far as I know, I can see, hear and feel:book:</b></p> 
+      
 ___
 
 <div align="center"><h1>My Stack</h1>
@@ -26,12 +30,6 @@ ___
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-___
-
-<h1 align="center">Motto</h1>
-      <p align="center"><b>내가 아는만큼 보고 듣고 느낄 수 있다:brain:</b></p>
-      <p align="center"><b>As far as I know, I can see, hear and feel:book:</b></p> 
-      
 ___
       
 VISIT CNT
