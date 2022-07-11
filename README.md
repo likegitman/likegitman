@@ -20,6 +20,8 @@ ___
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
       
 ___
+
+<h1 align="center">SNS</h1>
 <a href="https://www.instagram.com/lwl._.06/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
