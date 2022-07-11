@@ -20,6 +20,12 @@ ___
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 
 ___
+<h1 align="center">Motto</h1>
+      <p align="center"><b>내가 아는만큼 보고 듣고 느낄 수 있다:brain:</b></p>
+      <p align="center"><b>As far as I know, I can see, hear and feel:book:</b></p> 
+      
+___
+      
 VISIT CNT
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flikegitman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
