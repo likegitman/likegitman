@@ -22,7 +22,10 @@
       <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
    </div>
    
-<h2>SNS</h2>
+<h2>Contact</h2>
+<ul>
+ <li>momlin069@gmail.com</li>
    <a href="https://www.instagram.com/leewr_06/">
-      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <li>Instargram</li>
    </a>
+</ul> 
