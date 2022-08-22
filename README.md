@@ -13,13 +13,18 @@
 
 <h2>My Stack</h2>
    <div dislay:flex>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
-      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+      <a href="https://namu.wiki/w/C%EC%96%B8%EC%96%B4">
+         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+      </a>
+      <a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started">
+         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
+      </a>
+      <a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics">
+         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      </a>
+      <a href="https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      </a>
    </div>
    
 <h2>Contact</h2>
