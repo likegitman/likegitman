@@ -11,7 +11,7 @@
    <b>As far as I know, I can see, hear and feel:book:</b> 
       
 
-<h2>My Stack</h2>
+<h2>My Skill</h2>
    <div dislay:flex>
       <a href="https://namu.wiki/w/C%EC%96%B8%EC%96%B4">
          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
