@@ -28,6 +28,8 @@
       <a href="https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
       </a>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
    </div>
    
 <h2>Contact</h2>
