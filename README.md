@@ -13,21 +13,15 @@
 
 <h2>My Skill</h2>
    <div dislay:flex>
-      <a href="https://namu.wiki/w/C%EC%96%B8%EC%96%B4">
-         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-      </a>
-      <a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started">
-         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
-      </a>
-      <a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics">
-         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </a>
-      <a href="https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </a>
-      <a href="https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
-      </a>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br>
+   </div>
+   
+<h2>System Programing</h2>
+   <div display:flex>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">      
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
    </div>
