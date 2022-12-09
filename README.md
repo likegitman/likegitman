@@ -7,8 +7,8 @@
    
 <h2>Motto</h2>
    
-   <b>내가 아는만큼 보고 듣고 느낄 수 있다:brain:</b><br>
-   <b>As far as I know, I can see, hear and feel:book:</b> 
+   <b>내가 지식을 더 많이 알면 알수록 세상은 다르게 보인다.:brain:</b><br>
+   <b>The more I know knowledge, the more the world looks different.</b> 
       
 
 <h2>My Skill</h2>
