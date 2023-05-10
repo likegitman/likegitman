@@ -1,17 +1,12 @@
-<h2>안녕하세요!:fire:</h2>
-   <p>
-       저는 <b>단점</b>을 찾아 극복하려 노력하고<br>
-       제 단점을 극복하기 위해 <b>많은 지식</b>을 알려고 합니다.<br>
-       단점을 극복하고 성장한 저를를 볼 때 <b>성취감</b>을 얻습니다.
-   </p>
+### __안녕하세요!__:fire:
+저는 __단점__ 을 찾아 극복하려 노력하고  
+제 단점을 극복하기 위해 __많은 지식__ 을 알려고 합니다.  
+단점을 극복하고 성장한 저를 볼 때 __성취감__ 을 얻습니다.
    
-<h2>Motto</h2>
-   
-   <b>내가 지식을 더 많이 알면 알수록 세상은 다르게 보인다.:brain:</b><br>
-   <b>The more I know knowledge, the more the world looks different.</b> 
-      
+### Motto
+__내가 지식을 더 많이 알수록 세상이 다르게 보인다.__:brain:   
 
-<h2>My Skill</h2>
+### My Skill
    <div dislay:flex>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,8 +15,6 @@
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br> 
    </div>
 
-<h2>Contact</h2>
-<ul>
- <li>momlin069@gmail.com</li>
-</ul> 
+### Contact
+- momlin069@gmail.com
 
