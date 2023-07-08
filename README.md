@@ -7,11 +7,18 @@
 __내가 지식을 더 많이 알수록 세상이 다르게 보인다.__:brain:   
 
 ### My Skill
-<div dislay:flex>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-8A2BE2?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/nextJs-000000?style=for-the-badge&logo=nextJs&logoColor=white"><br>
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-8A2BE2?style=flat-square&logo=React&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Nextjs" />
+</div>
+
+### tools
+<div>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black" alt="Prettier" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" alt="ESLint" />
 </div>
 
 ### Contact
