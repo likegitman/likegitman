@@ -20,6 +20,3 @@ __내가 지식을 더 많이 알수록 세상이 다르게 보인다.__:brain:
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black" alt="Prettier" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" alt="ESLint" />
 </div>
-
-### Contact
-- momlin069@gmail.com
